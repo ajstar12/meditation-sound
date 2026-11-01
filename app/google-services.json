@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610778330327",
+    "project_id": "meditation-sound-7d5e8",
+    "storage_bucket": "meditation-sound-7d5e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610778330327:android:2665545f6e84d498f5ac92",
+        "android_client_info": {
+          "package_name": "com.arjun.detitationmusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwn_QVoDG84NSJrnSwgawx7l2_g1KBdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610778330327:android:27d974d0141c857bf5ac92",
+        "android_client_info": {
+          "package_name": "com.arjun.meso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwn_QVoDG84NSJrnSwgawx7l2_g1KBdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
